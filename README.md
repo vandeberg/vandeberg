@@ -27,17 +27,21 @@
 - 🌱 Sou um entusiasta de tecnologia e um desenvolvedor web iniciante, apaixonado por explorar o mundo do desenvolvimento front-end. Meu foco principal é aprofundar meus conhecimentos em HTML, CSS e JavaScript para criar experiências web interativas e envolventes.
 - 🤗 Estou ansioso para fazer parte de uma equipe inovadora e crescer profissionalmente no mundo do desenvolvimento web. Se você procura um desenvolvedor comprometido e pronto para aprender, entre em contato comigo. Estou disponível para conversar sobre oportunidades de trabalho e como posso contribuir para o sucesso da sua empresa.
 
-## Minhas Redes Sociais
+## Como entrar em contato comigo: ...
 
 <div>  
+
+  Se você acredita que posso contribuir para o sucesso da sua empresa ou projeto, estou disponível para uma conversa. Sinta-se à vontade para entrar em contato através do meu e-mail ou conectar-se comigo no LinkedIn 
+  
   <a href = "mailto:gemeos@devemdobro.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vandeberg-bezerra-calaca" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <img align="right" alt="joao-gif" height="150" style="border-radius:50px;" 
+  src="https://www.mygo.ge/uploads/blog/1584023795.jpg">
  
 </div>
 
  
-  <img align="right" alt="joao-gif" height="150" style="border-radius:50px;" 
-  src="https://www.mygo.ge/uploads/blog/1584023795.jpg">
+ 
   
 
 
