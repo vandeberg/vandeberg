@@ -26,16 +26,14 @@
 - 🔭 Busco uma oportunidade emocionante de primeiro emprego como desenvolvedor web, onde possa aplicar meus conhecimentos e aprender com uma equipe experiente. Tenho sede de aprender e estou determinado a contribuir para projetos desafiadores.
 - 🌱 Sou um entusiasta de tecnologia e um desenvolvedor web iniciante, apaixonado por explorar o mundo do desenvolvimento front-end. Meu foco principal é aprofundar meus conhecimentos em HTML, CSS e JavaScript para criar experiências web interativas e envolventes.
 - 🤗 Estou ansioso para fazer parte de uma equipe inovadora e crescer profissionalmente no mundo do desenvolvimento web. Se você procura um desenvolvedor comprometido e pronto para aprender, entre em contato comigo. Estou disponível para conversar sobre oportunidades de trabalho e como posso contribuir para o sucesso da sua empresa.
+- 📫 Contacte-me no email: vandebergbc@gmail.com
 
 ## Minhas Redes Sociais
 
-<div> 
-  <a href="https://instagram.com/vandebergbezerra" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+<div>  
   <a href = "mailto:gemeos@devemdobro.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vandeberg-bezerra-calaca" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
 
-## Repositórios principais
 
