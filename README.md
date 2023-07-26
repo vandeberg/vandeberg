@@ -26,7 +26,6 @@
 - 🔭 Busco uma oportunidade emocionante de primeiro emprego como desenvolvedor web, onde possa aplicar meus conhecimentos e aprender com uma equipe experiente. Tenho sede de aprender e estou determinado a contribuir para projetos desafiadores.
 - 🌱 Sou um entusiasta de tecnologia e um desenvolvedor web iniciante, apaixonado por explorar o mundo do desenvolvimento front-end. Meu foco principal é aprofundar meus conhecimentos em HTML, CSS e JavaScript para criar experiências web interativas e envolventes.
 - 🤗 Estou ansioso para fazer parte de uma equipe inovadora e crescer profissionalmente no mundo do desenvolvimento web. Se você procura um desenvolvedor comprometido e pronto para aprender, entre em contato comigo. Estou disponível para conversar sobre oportunidades de trabalho e como posso contribuir para o sucesso da sua empresa.
-- 📫 Contacte-me no email: vandebergbc@gmail.com
 
 ## Minhas Redes Sociais
 
@@ -35,5 +34,10 @@
   <a href="https://www.linkedin.com/in/vandeberg-bezerra-calaca" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
+
+ 
+  <img align="right" alt="joao-gif" height="150" style="border-radius:50px;" 
+  src="https://www.mygo.ge/uploads/blog/1584023795.jpg">
+  
 
 
