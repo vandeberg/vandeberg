@@ -23,7 +23,9 @@
 
 ## Detalhes
 
-
+- 🔭 I'm working at Accenture.
+- 🌱 I'm improving my habillities with Apache Spark and AWS.
+- 🤗 I like to experience new learnings and collaborate with knowledge sharing
 
 ## Minhas Redes Sociais
 
