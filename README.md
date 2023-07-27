@@ -38,7 +38,9 @@
   <a href="https://www.linkedin.com/in/vandeberg-bezerra-calaca" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <img align="right" alt="joao-gif" height="150" style="border-radius:50px;" 
   src="https://www.mygo.ge/uploads/blog/1584023795.jpg">
- 
+
+  📫 Contate-me no e-mail: vandebergbc@gmail.com / vandeberg-@hotmail.com <br>
+  💬 Contate-me no whatsapp: (88) 9 8101-6952
 </div>
 
  
