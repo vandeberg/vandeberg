@@ -33,7 +33,7 @@
 
   Se você acredita que posso contribuir para o sucesso da sua empresa ou projeto, estou disponível para uma conversa. Sinta-se à vontade para entrar em contato através do meu e-mail ou conectar-se comigo no LinkedIn 
 
-  <a href = "mailto:vandeberg-@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+  <a href = "mailto:vandeberg-@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href = "mailto:vandebergbc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vandeberg-bezerra-calaca" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <img align="right" alt="joao-gif" height="150" style="border-radius:50px;" 
